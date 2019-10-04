@@ -1,0 +1,13 @@
+{
+    "name": "eplightning/roadrunner-logger",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bartosz Sławianowski",
+            "email": "wrexdot@gmail.com"
+        }
+    ],
+    "require": {
+        "spiral/roadrunner": "^1.4"
+    }
+}
